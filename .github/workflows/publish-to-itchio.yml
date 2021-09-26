@@ -18,6 +18,6 @@ jobs:
       env:
         BUTLER_CREDENTIALS: ${{ secrets.BUTLER_CREDENTIALS }}
         CHANNEL: HTML
-        ITCH_GAME: No-Go
-        ITCH_USER: fredericmodine
+        ITCH_GAME: Projet-7
+        ITCH_USER: ecole2dngo
         PACKAGE: build.zip
