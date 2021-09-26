@@ -1,0 +1,23 @@
+name: itch.io HTML Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  itch_build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: papeloto/action-zip@v1
+      with:
+        files: Build/
+        dest: build.zip
+    - uses: josephbmanley/butler-publish-itchio-action@master
+      env:
+        BUTLER_CREDENTIALS: ${{ secrets.BUTLER_CREDENTIALS }}
+        CHANNEL: HTML
+        ITCH_GAME: No-Go
+        ITCH_USER: fredericmodine
+        PACKAGE: build.zip
