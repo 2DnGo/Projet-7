@@ -395,7 +395,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.8009999999999972,
+        "zoomFactor": 0.4620000000000001,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -409,9 +409,9 @@
           "locked": false,
           "name": "Herbe",
           "persistentUuid": "4ed57a1d-3e07-4492-beea-d8748f411bfd",
-          "width": 480,
-          "x": 64,
-          "y": 384,
+          "width": 6320,
+          "x": -5312,
+          "y": 448,
           "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
@@ -420,15 +420,175 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 272,
+          "height": 96,
           "layer": "",
           "locked": false,
-          "name": "NewObject3",
+          "name": "Bremma",
           "persistentUuid": "4704edd0-78b8-41a1-8766-a2a0111179d4",
-          "width": 304,
-          "x": 128,
-          "y": 96,
+          "width": 96,
+          "x": -5216,
+          "y": 320,
           "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1024,
+          "layer": "",
+          "locked": false,
+          "name": "GrassAndTreeBackground",
+          "persistentUuid": "f06d9142-7b72-4325-bc28-2b8101225588",
+          "width": 6384,
+          "x": -5328,
+          "y": -336,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 288,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject2",
+          "persistentUuid": "d663043a-32f8-43db-9491-2b109e87a8c4",
+          "width": 6368,
+          "x": -5280,
+          "y": 688,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Herbe",
+          "persistentUuid": "d9c87aa2-ee79-47cd-a41c-b96b408fc24c",
+          "width": 160,
+          "x": -4912,
+          "y": 256,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "Petitblob",
+          "persistentUuid": "9dd096e6-7cc0-4b40-bb19-0d049d37df7d",
+          "width": 64,
+          "x": -4896,
+          "y": 192,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Terre",
+          "persistentUuid": "874cdefa-e574-4ec8-a6d3-8ea692d069ca",
+          "width": 160,
+          "x": -4912,
+          "y": 272,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Herbe",
+          "persistentUuid": "a4dfcbba-57da-48ca-a05b-89e741e7f321",
+          "width": 192,
+          "x": -4656,
+          "y": 96,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "Terre",
+          "persistentUuid": "420d4cbd-3567-4699-8afd-87493650eaa9",
+          "width": 192,
+          "x": -4656,
+          "y": 112,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 59,
+          "layer": "",
+          "locked": false,
+          "name": "ChatNOIR",
+          "persistentUuid": "c7520310-0c08-4545-99dc-b11491eaa2c6",
+          "width": 59,
+          "x": -4635,
+          "y": 32,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Herbe",
+          "persistentUuid": "da4f2bf4-6cc4-47ee-8274-ac176f206e82",
+          "width": 816,
+          "x": -3824,
+          "y": 368,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "Herbe",
+          "persistentUuid": "aed10d39-83e4-4bf8-bf1a-0c9305e64e02",
+          "width": 304,
+          "x": -2512,
+          "y": 160,
+          "zOrder": 57,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -444,21 +604,14 @@
           "effects": [],
           "behaviors": [
             {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGrabPlatforms": false,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "roundCoordinates": true,
-              "slopeMaxAngle": 60,
-              "xGrabTolerance": 10,
+              "name": "Déplaçable",
+              "type": "DraggableBehavior::Draggable"
+            },
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -558,26 +711,17 @@
           "effects": [],
           "behaviors": [
             {
-              "name": "Déplaçable",
-              "type": "DraggableBehavior::Draggable"
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 0,
+              "name": "Anchor",
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 0,
+              "topEdgeAnchor": 0,
+              "type": "AnchorBehavior::AnchorBehavior"
             },
             {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGrabPlatforms": false,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "roundCoordinates": true,
-              "slopeMaxAngle": 60,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
+              "name": "Déplaçable",
+              "type": "DraggableBehavior::Draggable"
             }
           ],
           "animations": [
@@ -706,10 +850,10 @@
           "effects": [],
           "behaviors": [
             {
-              "cost": 2,
-              "impassable": true,
               "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior"
+              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+              "cost": 2,
+              "impassable": true
             },
             {
               "name": "PlatformerObject",
@@ -802,14 +946,22 @@
           "behaviors": []
         },
         {
-          "name": "NewObject3",
+          "name": "Bremma",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "saut",
+              "type": "string",
+              "value": ""
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -820,10 +972,8 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -838,7 +988,7 @@
                   "timeBetweenFrames": 0.8949999809265137,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewObject3-1.png",
                       "points": [],
                       "originPoint": {
@@ -852,10 +1002,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9.043137550354004,
+                            "y": 10.600128173828125
+                          },
+                          {
+                            "x": 55.06083679199219,
+                            "y": 11.485076904296875
+                          },
+                          {
+                            "x": 54.17588806152344,
+                            "y": 64
+                          },
+                          {
+                            "x": 10.813065528869629,
+                            "y": 63.69744873046875
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewObject3-2.png",
                       "points": [],
                       "originPoint": {
@@ -869,10 +1038,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9.043137550354004,
+                            "y": 10.600128173828125
+                          },
+                          {
+                            "x": 55.06083679199219,
+                            "y": 11.485076904296875
+                          },
+                          {
+                            "x": 54.17588806152344,
+                            "y": 64
+                          },
+                          {
+                            "x": 10.813065528869629,
+                            "y": 63.69744873046875
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewObject3-3.png",
                       "points": [],
                       "originPoint": {
@@ -886,10 +1074,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9.043137550354004,
+                            "y": 10.600128173828125
+                          },
+                          {
+                            "x": 55.06083679199219,
+                            "y": 11.485076904296875
+                          },
+                          {
+                            "x": 54.17588806152344,
+                            "y": 64
+                          },
+                          {
+                            "x": 10.813065528869629,
+                            "y": 63.69744873046875
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewObject3-4.png",
                       "points": [],
                       "originPoint": {
@@ -903,10 +1110,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9.043137550354004,
+                            "y": 10.600128173828125
+                          },
+                          {
+                            "x": 55.06083679199219,
+                            "y": 11.485076904296875
+                          },
+                          {
+                            "x": 54.17588806152344,
+                            "y": 64
+                          },
+                          {
+                            "x": 10.813065528869629,
+                            "y": 63.69744873046875
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewObject3-5.png",
                       "points": [],
                       "originPoint": {
@@ -920,7 +1146,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9.043137550354004,
+                            "y": 10.600128173828125
+                          },
+                          {
+                            "x": 55.06083679199219,
+                            "y": 11.485076904296875
+                          },
+                          {
+                            "x": 54.17588806152344,
+                            "y": 64
+                          },
+                          {
+                            "x": 10.813065528869629,
+                            "y": 63.69744873046875
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -999,22 +1244,8 @@
               },
               "parameters": [
                 "",
-                "NewObject3",
+                "Bremma",
                 "yes",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "CentreCamera"
-              },
-              "parameters": [
-                "",
-                "Petitblob",
-                "",
                 "",
                 ""
               ],
@@ -1098,7 +1329,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "ChatNOIR",
+                "Bremma",
                 "NewObject2",
                 "",
                 "",
@@ -1117,6 +1348,169 @@
                 "Vie du joueur",
                 "=",
                 "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Space"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Bremma",
+                "saut",
+                "<",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Bremma",
+                "saut",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "Bremma.VariableString(saut)",
+                "\"info\"",
+                "\"bonjour ca vas\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "Bremma",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Bremma",
+                "saut",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "Bremma.VariableString(saut)",
+                "\"info\"",
+                "\"bonjour ca vas\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Bremma",
+                "saut",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SetCanJump"
+              },
+              "parameters": [
+                "Bremma",
+                "PlatformerObject"
               ],
               "subInstructions": []
             }
@@ -1160,6 +1554,10 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior"
+        },
         {
           "name": "PathfindingObstacle",
           "type": "PathfindingBehavior::PathfindingObstacleBehavior"
