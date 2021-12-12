@@ -358,6 +358,24 @@
           "identifier": "https://resources.gdevelop-app.com/assets/Generic Backgrounds/tiled_Grass and Tree Background.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1-0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-2-0.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -395,7 +413,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.4620000000000001,
+        "zoomFactor": 1.0721999999999978,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -407,12 +425,12 @@
           "height": 16,
           "layer": "",
           "locked": false,
-          "name": "Herbe",
-          "persistentUuid": "4ed57a1d-3e07-4492-beea-d8748f411bfd",
-          "width": 6320,
-          "x": -5312,
-          "y": 448,
-          "zOrder": 45,
+          "name": "planchedebois",
+          "persistentUuid": "9f8f27da-aa5f-45ae-aa1d-de2b8eeb265d",
+          "width": 144,
+          "x": 80,
+          "y": 496,
+          "zOrder": 59,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -420,15 +438,47 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 96,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "planchedebois",
+          "persistentUuid": "039060e6-996b-4ae5-8f35-f89142d54fe4",
+          "width": 32,
+          "x": 256,
+          "y": 448,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "planchedebois",
+          "persistentUuid": "30020a2a-4944-41c3-9874-bc074ebe22f4",
+          "width": 16,
+          "x": 352,
+          "y": 416,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
           "layer": "",
           "locked": false,
           "name": "Bremma",
-          "persistentUuid": "4704edd0-78b8-41a1-8766-a2a0111179d4",
-          "width": 96,
-          "x": -5216,
-          "y": 320,
-          "zOrder": 47,
+          "persistentUuid": "a032f72e-360b-4ed6-a59d-f724ff01e2ec",
+          "width": 32,
+          "x": 128,
+          "y": 464,
+          "zOrder": 62,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -436,15 +486,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 1024,
+          "height": 32,
           "layer": "",
           "locked": false,
-          "name": "GrassAndTreeBackground",
-          "persistentUuid": "f06d9142-7b72-4325-bc28-2b8101225588",
-          "width": 6384,
-          "x": -5328,
-          "y": -336,
-          "zOrder": 0,
+          "name": "planchedebois",
+          "persistentUuid": "cd68d370-bd83-458a-a547-027369a065a6",
+          "width": 64,
+          "x": 400,
+          "y": 464,
+          "zOrder": 63,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -452,143 +502,79 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 288,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "planchedebois",
+          "persistentUuid": "5d0e689b-a26e-437f-8cb2-90213e50bed5",
+          "width": 32,
+          "x": 560,
+          "y": 384,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "planchedebois",
+          "persistentUuid": "5d1b5ea7-a5f7-40d5-a89b-f0d6d22128b9",
+          "width": 1,
+          "x": 655,
+          "y": 320,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "locked": false,
+          "name": "planchedebois",
+          "persistentUuid": "b9e52dcf-b725-4540-9c04-fec6e3f0deca",
+          "width": 16,
+          "x": 496,
+          "y": 272,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
           "layer": "",
           "locked": false,
           "name": "NewObject2",
-          "persistentUuid": "d663043a-32f8-43db-9491-2b109e87a8c4",
-          "width": 6368,
-          "x": -5280,
-          "y": 688,
-          "zOrder": 49,
+          "persistentUuid": "8886534f-4a48-49e9-a048-f3c375288fe3",
+          "width": 784,
+          "x": 16,
+          "y": 560,
+          "zOrder": 67,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 16,
+          "customSize": false,
+          "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Herbe",
-          "persistentUuid": "d9c87aa2-ee79-47cd-a41c-b96b408fc24c",
-          "width": 160,
-          "x": -4912,
-          "y": 256,
-          "zOrder": 50,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "Petitblob",
-          "persistentUuid": "9dd096e6-7cc0-4b40-bb19-0d049d37df7d",
-          "width": 64,
-          "x": -4896,
-          "y": 192,
-          "zOrder": 51,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 16,
-          "layer": "",
-          "locked": false,
-          "name": "Terre",
-          "persistentUuid": "874cdefa-e574-4ec8-a6d3-8ea692d069ca",
-          "width": 160,
-          "x": -4912,
-          "y": 272,
-          "zOrder": 52,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 16,
-          "layer": "",
-          "locked": false,
-          "name": "Herbe",
-          "persistentUuid": "a4dfcbba-57da-48ca-a05b-89e741e7f321",
-          "width": 192,
-          "x": -4656,
-          "y": 96,
-          "zOrder": 53,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 48,
-          "layer": "",
-          "locked": false,
-          "name": "Terre",
-          "persistentUuid": "420d4cbd-3567-4699-8afd-87493650eaa9",
-          "width": 192,
-          "x": -4656,
-          "y": 112,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 59,
-          "layer": "",
-          "locked": false,
-          "name": "ChatNOIR",
-          "persistentUuid": "c7520310-0c08-4545-99dc-b11491eaa2c6",
-          "width": 59,
-          "x": -4635,
-          "y": 32,
-          "zOrder": 55,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 16,
-          "layer": "",
-          "locked": false,
-          "name": "Herbe",
-          "persistentUuid": "da4f2bf4-6cc4-47ee-8274-ac176f206e82",
-          "width": 816,
-          "x": -3824,
-          "y": 368,
-          "zOrder": 56,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 16,
-          "layer": "",
-          "locked": false,
-          "name": "Herbe",
-          "persistentUuid": "aed10d39-83e4-4bf8-bf1a-0c9305e64e02",
-          "width": 304,
-          "x": -2512,
-          "y": 160,
-          "zOrder": 57,
+          "name": "NewObject3",
+          "persistentUuid": "136489b6-fd18-4702-a176-decfa4d1352e",
+          "width": 0,
+          "x": 400,
+          "y": 400,
+          "zOrder": 72,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -600,21 +586,15 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
+          "variables": [
             {
-              "name": "Déplaçable",
-              "type": "DraggableBehavior::Draggable"
-            },
-            {
-              "canBeGrabbed": true,
-              "name": "Platform",
-              "platformType": "NormalPlatform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "yGrabOffset": 0
+              "name": "Variable",
+              "type": "string",
+              "value": ""
             }
           ],
+          "effects": [],
+          "behaviors": [],
           "animations": [
             {
               "name": "NewObject-1",
@@ -642,12 +622,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0.699999988079071,
-                            "y": 0.15000000596046448
+                            "x": 0.9914258718490601,
+                            "y": 0.8816372156143188
                           },
                           {
-                            "x": 9,
-                            "y": 0
+                            "x": 9.044523239135742,
+                            "y": 0.970132052898407
                           },
                           {
                             "x": 9.100000381469727,
@@ -678,12 +658,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0.699999988079071,
-                            "y": 0.15000000596046448
+                            "x": 0.9914258718490601,
+                            "y": 0.8816372156143188
                           },
                           {
-                            "x": 9,
-                            "y": 0
+                            "x": 9.044523239135742,
+                            "y": 0.970132052898407
                           },
                           {
                             "x": 9.100000381469727,
@@ -710,15 +690,6 @@
           "variables": [],
           "effects": [],
           "behaviors": [
-            {
-              "bottomEdgeAnchor": 0,
-              "leftEdgeAnchor": 0,
-              "name": "Anchor",
-              "relativeToOriginalWindowSize": true,
-              "rightEdgeAnchor": 0,
-              "topEdgeAnchor": 0,
-              "type": "AnchorBehavior::AnchorBehavior"
-            },
             {
               "name": "Déplaçable",
               "type": "DraggableBehavior::Draggable"
@@ -850,12 +821,6 @@
           "effects": [],
           "behaviors": [
             {
-              "name": "PathfindingObstacle",
-              "type": "PathfindingBehavior::PathfindingObstacleBehavior",
-              "cost": 2,
-              "impassable": true
-            },
-            {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
@@ -943,7 +908,15 @@
           "width": 32,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "name": "Bremma",
@@ -1183,6 +1156,63 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "name": "NewObject3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.8999999761581421,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject3-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject3-2-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -1224,7 +1254,7 @@
               "parameters": [
                 "Vie du joueur",
                 "=",
-                "5"
+                "2"
               ],
               "subInstructions": []
             }
@@ -1554,14 +1584,6 @@
         }
       ],
       "behaviorsSharedData": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior"
-        },
-        {
-          "name": "PathfindingObstacle",
-          "type": "PathfindingBehavior::PathfindingObstacleBehavior"
-        },
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
