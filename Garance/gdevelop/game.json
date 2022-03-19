@@ -44,7 +44,9 @@
       "showProgressBar": true
     },
     "authorIds": [],
-    "playableDevices": [],
+    "playableDevices": [
+      "keyboard"
+    ],
     "extensionProperties": [],
     "platforms": [
       {
@@ -390,15 +392,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewFile-1-1-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewFile-1-1-1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewFile-1-3.png",
         "kind": "image",
         "metadata": "",
@@ -707,15 +700,6 @@
         "name": "assets\\porte verte.png",
         "smoothed": false,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/porte orange.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\porte orange.png",
-        "smoothed": false,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -1259,24 +1243,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewObject2-1-3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject2-1-3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewObject2-1-3-1-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject2-1-3-1-0.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewObject-1-18.png",
         "kind": "image",
         "metadata": "",
@@ -1364,6 +1330,87 @@
         "name": "NewObject-1-4.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/porte orange.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\porte orange.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/porte rouge - Copie.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\porte rouge - Copie.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/porteorange-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\porteorange-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-21.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-3-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-1-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1-3-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1-3-1-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1406,7 +1453,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 3.015799999999998,
+        "zoomFactor": 0.3715999999999958,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1421,8 +1468,8 @@
           "name": "Ellios",
           "persistentUuid": "a56bdef5-32f2-4acc-949f-0e7eea8793a3",
           "width": 62,
-          "x": 356,
-          "y": 348,
+          "x": -83,
+          "y": 784,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -1437,8 +1484,8 @@
           "name": "lionel",
           "persistentUuid": "8028e66d-f44c-46ba-984c-76fdecbbe00d",
           "width": 87,
-          "x": 283,
-          "y": 322,
+          "x": 274,
+          "y": 226,
           "zOrder": 101,
           "numberProperties": [],
           "stringProperties": [],
@@ -1453,9 +1500,73 @@
           "name": "gerald",
           "persistentUuid": "10223946-c1e0-4561-87e9-2d8e5dde70e4",
           "width": 0,
-          "x": 227,
-          "y": 345,
+          "x": 265,
+          "y": 975,
           "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 84,
+          "layer": "",
+          "locked": false,
+          "name": "porteorange",
+          "persistentUuid": "e9d14577-2247-4f95-8351-b5a111e8da35",
+          "width": 84,
+          "x": -539,
+          "y": 783,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 15,
+          "layer": "",
+          "locked": false,
+          "name": "orangekey",
+          "persistentUuid": "db59a8d3-0489-46a8-bbec-f8dc8bb6c360",
+          "width": 15,
+          "x": 2,
+          "y": 793,
+          "zOrder": 104,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1582,
+          "layer": "",
+          "locked": false,
+          "name": "sol",
+          "persistentUuid": "d1106d43-2b67-435d-9e7d-24263f9f12e4",
+          "width": 2198,
+          "x": -664,
+          "y": -154,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 65,
+          "layer": "",
+          "locked": false,
+          "name": "acide",
+          "persistentUuid": "7e96339b-a7d1-4e8d-b4b9-f99bc4965d66",
+          "width": 2188,
+          "x": -665,
+          "y": 642,
+          "zOrder": 107,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1472,227 +1583,6 @@
           "variables": [],
           "effects": [],
           "behaviors": []
-        },
-        {
-          "name": "Bremma",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "name": "saut",
-              "type": "string",
-              "value": ""
-            }
-          ],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Déplaçable",
-              "type": "DraggableBehavior::Draggable"
-            },
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "NewObject3",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.8949999809265137,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewObject3-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9.043137550354004,
-                            "y": 10.600128173828125
-                          },
-                          {
-                            "x": 55.06083679199219,
-                            "y": 11.485076904296875
-                          },
-                          {
-                            "x": 54.17588806152344,
-                            "y": 64
-                          },
-                          {
-                            "x": 10.813065528869629,
-                            "y": 63.69744873046875
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewObject3-2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9.043137550354004,
-                            "y": 10.600128173828125
-                          },
-                          {
-                            "x": 55.06083679199219,
-                            "y": 11.485076904296875
-                          },
-                          {
-                            "x": 54.17588806152344,
-                            "y": 64
-                          },
-                          {
-                            "x": 10.813065528869629,
-                            "y": 63.69744873046875
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewObject3-3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9.043137550354004,
-                            "y": 10.600128173828125
-                          },
-                          {
-                            "x": 55.06083679199219,
-                            "y": 11.485076904296875
-                          },
-                          {
-                            "x": 54.17588806152344,
-                            "y": 64
-                          },
-                          {
-                            "x": 10.813065528869629,
-                            "y": 63.69744873046875
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewObject3-4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9.043137550354004,
-                            "y": 10.600128173828125
-                          },
-                          {
-                            "x": 55.06083679199219,
-                            "y": 11.485076904296875
-                          },
-                          {
-                            "x": 54.17588806152344,
-                            "y": 64
-                          },
-                          {
-                            "x": 10.813065528869629,
-                            "y": 63.69744873046875
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewObject3-5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9.043137550354004,
-                            "y": 10.600128173828125
-                          },
-                          {
-                            "x": 55.06083679199219,
-                            "y": 11.485076904296875
-                          },
-                          {
-                            "x": 54.17588806152344,
-                            "y": 64
-                          },
-                          {
-                            "x": 10.813065528869629,
-                            "y": 63.69744873046875
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         },
         {
           "name": "Ellios",
@@ -1737,7 +1627,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewObject-1-20.png",
+                      "image": "NewObject-1-21.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1753,55 +1643,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11.214049339294434,
-                            "y": 11.603292465209961
+                            "x": 21.444042205810547,
+                            "y": 12.289515495300293
                           },
                           {
-                            "x": 53.4706916809082,
-                            "y": 12.045770645141602
+                            "x": 43.56793975830078,
+                            "y": 12.289515495300293
                           },
                           {
-                            "x": 54.35564041137695,
+                            "x": 44.79704666137695,
                             "y": 64
                           },
                           {
-                            "x": 10.329092979431152,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewObject-1-4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 11.214049339294434,
-                            "y": 11.603292465209961
-                          },
-                          {
-                            "x": 53.4706916809082,
-                            "y": 12.045770645141602
-                          },
-                          {
-                            "x": 54.35564041137695,
-                            "y": 64
-                          },
-                          {
-                            "x": 10.329092979431152,
+                            "x": 20.460758209228516,
                             "y": 64
                           }
                         ]
@@ -1817,7 +1671,7 @@
           "height": 32,
           "name": "sol",
           "tags": "",
-          "texture": "NewFile-1-3.png",
+          "texture": "NewFile-1-3-1.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -2582,15 +2436,52 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
-              "name": "porteorange",
+              "name": "portefermer",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
                   "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\porteorange-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "portouverte",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -2894,6 +2785,46 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -3116,18 +3047,6 @@
                 "1"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "DebuggerTools::ConsoleLog"
-              },
-              "parameters": [
-                "Bremma.VariableString(saut)",
-                "\"info\"",
-                "\"bonjour ca vas\""
-              ],
-              "subInstructions": []
             }
           ],
           "events": []
@@ -3170,18 +3089,6 @@
                 "0"
               ],
               "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "DebuggerTools::ConsoleLog"
-              },
-              "parameters": [
-                "Bremma.VariableString(saut)",
-                "\"info\"",
-                "\"bonjour ca vas\""
-              ],
-              "subInstructions": []
             }
           ],
           "events": []
@@ -3213,19 +3120,7 @@
               "subInstructions": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::SetCanJump"
-              },
-              "parameters": [
-                "Bremma",
-                "PlatformerObject"
-              ],
-              "subInstructions": []
-            }
-          ],
+          "actions": [],
           "events": []
         },
         {
@@ -3440,6 +3335,99 @@
               "parameters": [
                 "cleorange",
                 "True"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Ellios",
+                "porteorange",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "cleorange",
+                "True"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "porteorange",
+                "\"portouverte\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Ellios",
+                "porteorange",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "cleorange",
+                "False"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Ellios",
+                "porteorange",
+                ""
               ],
               "subInstructions": []
             }
