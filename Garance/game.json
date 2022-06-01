@@ -1787,7 +1787,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.1682,
+        "zoomFactor": 0.4830933240890503,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3384,8 +3384,6 @@
       ],
       "events": [
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3419,7 +3417,7 @@
                 "value": "ModVarGlobal"
               },
               "parameters": [
-                "Vie du joueur",
+                "viedujoueur",
                 "=",
                 "2"
               ],
@@ -3429,8 +3427,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": [
@@ -3452,8 +3448,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3462,7 +3456,7 @@
                 "value": "VarGlobal"
               },
               "parameters": [
-                "Vie du joueur ",
+                "viedujoueur",
                 "=",
                 "0"
               ],
@@ -3486,8 +3480,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3506,7 +3498,7 @@
                 "value": "ModVarGlobal"
               },
               "parameters": [
-                "Vie du joueur",
+                "viedujoueur",
                 "-",
                 "1"
               ],
@@ -3516,8 +3508,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3542,7 +3532,7 @@
                 "value": "ModVarGlobal"
               },
               "parameters": [
-                "Vie du joueur",
+                "viedujoueur",
                 "=",
                 "0"
               ],
@@ -3552,8 +3542,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3607,8 +3595,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3649,8 +3635,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3679,8 +3663,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3705,7 +3687,7 @@
                 "value": "ModVarGlobal"
               },
               "parameters": [
-                "Vie du joueur",
+                "viedujoueur",
                 "=",
                 "0"
               ],
@@ -3715,8 +3697,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3749,8 +3729,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3783,8 +3761,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3817,8 +3793,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3851,8 +3825,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3897,8 +3869,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3943,8 +3913,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3990,8 +3958,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4016,7 +3982,7 @@
                 "value": "ModVarGlobal"
               },
               "parameters": [
-                "Vie du joueur",
+                "viedujoueur",
                 "=",
                 "0"
               ],
@@ -4026,8 +3992,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4052,7 +4016,7 @@
                 "value": "ModVarGlobal"
               },
               "parameters": [
-                "Vie du joueur",
+                "viedujoueur",
                 "=",
                 "0"
               ],
@@ -4062,8 +4026,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4098,8 +4060,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4134,8 +4094,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4180,8 +4138,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4226,8 +4182,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4272,8 +4226,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4318,8 +4270,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4364,8 +4314,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4410,8 +4358,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4456,8 +4402,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4502,8 +4446,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4549,8 +4491,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4596,8 +4536,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4643,8 +4581,6 @@
           "events": []
         },
         {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": [],
